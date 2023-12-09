@@ -16,6 +16,8 @@ Back then the code was compiled and run using Microsoft Visual Studio. These day
 ## Demo
 If run successfully, the application appears as a pop-up window: </br>
 [![demo](https://github.com/TzeLun/Cube-Collision-Application/blob/main/Cube%20Collision%20Application.JPG)](https://github.com/TzeLun/Cube-Collision-Application/blob/main/CCA_Demo.mp4)
+</br>
+Check out the [demo video here](https://github.com/TzeLun/Cube-Collision-Application/blob/main/CCA_Demo.mp4) if interested. 
 
 ## Controls
 |Keys|Control|
@@ -26,4 +28,3 @@ If run successfully, the application appears as a pop-up window: </br>
 |D|Right|
 |Mouse left click|Spawn cubes|
 |Mouse hover|Cursor view change|
-|A|Left|
